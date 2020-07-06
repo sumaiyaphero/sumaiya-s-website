@@ -1,0 +1,45 @@
+body{
+    font-family: 'Noto Sans TC', sans-serif;
+}
+h1{
+  text-align: center;
+}
+h2{
+    
+}
+.name{
+    font-size: 30px;
+    color: mediumvioletred;
+    padding-left:20px ;
+}
+p{
+    color: slategray;
+    width: 400px;
+}
+.hlf-width{
+   width:100%;
+    
+    margin-bottom: 30px;
+    padding: 30px;
+   
+}
+.button{
+    margin-left: 500px;
+}
+.another-section{
+    text-align: right;
+    color: rgb(223, 43, 133);
+    
+    
+}
+.card{
+    overflow: scroll;
+    color: rgb(83, 89, 95);
+    float: right;
+}
+.contact{
+    font-size: 15px;
+}
+.half-width{
+    color: rgb(71, 70, 70);
+}
